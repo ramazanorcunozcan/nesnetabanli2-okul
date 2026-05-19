@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ac5rLFqKDOo=",
+  "dgSpecHash": "qhBVVYXC8l0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\orcun\\source\\repos\\nesneTabanli-Okul\\nesneTabanli-Okul\\nesneTabanli-Okul.csproj",
+  "projectFilePath": "C:\\Users\\orcun\\OneDrive\\Documents\\GitHub\\nesnetabanli2-okul\\nesneTabanli-Okul\\nesneTabanli-Okul\\nesneTabanli-Okul.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\orcun\\.nuget\\packages\\microsoft.bcl.cryptography\\9.0.13\\microsoft.bcl.cryptography.9.0.13.nupkg.sha512",
     "C:\\Users\\orcun\\.nuget\\packages\\microsoft.data.sqlclient\\7.0.1\\microsoft.data.sqlclient.7.0.1.nupkg.sha512",

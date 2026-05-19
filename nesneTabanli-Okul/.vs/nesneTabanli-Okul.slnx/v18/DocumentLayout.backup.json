@@ -11,19 +11,19 @@
       "RelativeMoniker": "D:0:0:{06D63FA5-05FE-D10E-4A1B-C1235A9D2C70}|nesneTabanli-Okul\\nesneTabanli-Okul.csproj|solutionrelative:nesnetabanli-okul\\frmogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06D63FA5-05FE-D10E-4A1B-C1235A9D2C70}|nesneTabanli-Okul\\nesneTabanli-Okul.csproj|c:\\users\\orcun\\source\\repos\\nesnetabanli-okul\\nesnetabanli-okul\\frmogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{06D63FA5-05FE-D10E-4A1B-C1235A9D2C70}|nesneTabanli-Okul\\nesneTabanli-Okul.csproj|C:\\Users\\orcun\\source\\repos\\nesneTabanli-Okul\\nesnetabanli-okul\\frmogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{06D63FA5-05FE-D10E-4A1B-C1235A9D2C70}|nesneTabanli-Okul\\nesneTabanli-Okul.csproj|solutionrelative:nesnetabanli-okul\\frmogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06D63FA5-05FE-D10E-4A1B-C1235A9D2C70}|nesneTabanli-Okul\\nesneTabanli-Okul.csproj|c:\\users\\orcun\\source\\repos\\nesnetabanli-okul\\nesnetabanli-okul\\frmogrencinotlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{06D63FA5-05FE-D10E-4A1B-C1235A9D2C70}|nesneTabanli-Okul\\nesneTabanli-Okul.csproj|C:\\Users\\orcun\\source\\repos\\nesneTabanli-Okul\\nesnetabanli-okul\\frmogrencinotlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{06D63FA5-05FE-D10E-4A1B-C1235A9D2C70}|nesneTabanli-Okul\\nesneTabanli-Okul.csproj|solutionrelative:nesnetabanli-okul\\frmogrencinotlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06D63FA5-05FE-D10E-4A1B-C1235A9D2C70}|nesneTabanli-Okul\\nesneTabanli-Okul.csproj|c:\\users\\orcun\\source\\repos\\nesnetabanli-okul\\nesnetabanli-okul\\frmogretmen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{06D63FA5-05FE-D10E-4A1B-C1235A9D2C70}|nesneTabanli-Okul\\nesneTabanli-Okul.csproj|C:\\Users\\orcun\\source\\repos\\nesneTabanli-Okul\\nesnetabanli-okul\\frmogretmen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{06D63FA5-05FE-D10E-4A1B-C1235A9D2C70}|nesneTabanli-Okul\\nesneTabanli-Okul.csproj|solutionrelative:nesnetabanli-okul\\frmogretmen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06D63FA5-05FE-D10E-4A1B-C1235A9D2C70}|nesneTabanli-Okul\\nesneTabanli-Okul.csproj|c:\\users\\orcun\\source\\repos\\nesnetabanli-okul\\nesnetabanli-okul\\frmsinavnotlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{06D63FA5-05FE-D10E-4A1B-C1235A9D2C70}|nesneTabanli-Okul\\nesneTabanli-Okul.csproj|C:\\Users\\orcun\\source\\repos\\nesneTabanli-Okul\\nesnetabanli-okul\\frmsinavnotlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{06D63FA5-05FE-D10E-4A1B-C1235A9D2C70}|nesneTabanli-Okul\\nesneTabanli-Okul.csproj|solutionrelative:nesnetabanli-okul\\frmsinavnotlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -42,8 +42,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -66,8 +78,7 @@
               "ToolTip": "C:\\Users\\orcun\\source\\repos\\nesneTabanli-Okul\\nesneTabanli-Okul\\FrmOgrenci.cs [Design]",
               "RelativeToolTip": "nesneTabanli-Okul\\FrmOgrenci.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T11:23:02.771Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-05-12T11:23:02.771Z"
             },
             {
               "$type": "Document",
@@ -78,8 +89,7 @@
               "ToolTip": "C:\\Users\\orcun\\source\\repos\\nesneTabanli-Okul\\nesneTabanli-Okul\\FrmOgrenciNotlar.cs [Design]",
               "RelativeToolTip": "nesneTabanli-Okul\\FrmOgrenciNotlar.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T11:23:00.834Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-05-12T11:23:00.834Z"
             },
             {
               "$type": "Document",
@@ -116,8 +126,7 @@
               "ToolTip": "C:\\Users\\orcun\\source\\repos\\nesneTabanli-Okul\\nesneTabanli-Okul\\FrmOgretmen.cs [Design]",
               "RelativeToolTip": "nesneTabanli-Okul\\FrmOgretmen.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T11:17:23.648Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-05-12T11:17:23.648Z"
             },
             {
               "$type": "Document",
@@ -128,8 +137,7 @@
               "ToolTip": "C:\\Users\\orcun\\source\\repos\\nesneTabanli-Okul\\nesneTabanli-Okul\\FrmSinavNotlar.cs [Design]",
               "RelativeToolTip": "nesneTabanli-Okul\\FrmSinavNotlar.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T11:06:56.821Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-05-12T11:06:56.821Z"
             },
             {
               "$type": "Document",
@@ -140,20 +148,7 @@
               "ToolTip": "C:\\Users\\orcun\\source\\repos\\nesneTabanli-Okul\\nesneTabanli-Okul\\DataSet2.xsd",
               "RelativeToolTip": "nesneTabanli-Okul\\DataSet2.xsd",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
-              "WhenOpened": "2026-05-12T08:05:47.091Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+              "WhenOpened": "2026-05-12T08:05:47.091Z"
             }
           ]
         }

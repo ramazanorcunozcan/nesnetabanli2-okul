@@ -1132,11 +1132,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\orcun\\source\\repos\\nesneTabanli-Okul\\nesneTabanli-Okul\\nesneTabanli-Okul.csproj",
+      "projectUniqueName": "C:\\Users\\orcun\\OneDrive\\Documents\\GitHub\\nesnetabanli2-okul\\nesneTabanli-Okul\\nesneTabanli-Okul\\nesneTabanli-Okul.csproj",
       "projectName": "nesneTabanli-Okul",
-      "projectPath": "C:\\Users\\orcun\\source\\repos\\nesneTabanli-Okul\\nesneTabanli-Okul\\nesneTabanli-Okul.csproj",
+      "projectPath": "C:\\Users\\orcun\\OneDrive\\Documents\\GitHub\\nesnetabanli2-okul\\nesneTabanli-Okul\\nesneTabanli-Okul\\nesneTabanli-Okul.csproj",
       "packagesPath": "C:\\Users\\orcun\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\orcun\\source\\repos\\nesneTabanli-Okul\\nesneTabanli-Okul\\obj\\",
+      "outputPath": "C:\\Users\\orcun\\OneDrive\\Documents\\GitHub\\nesnetabanli2-okul\\nesneTabanli-Okul\\nesneTabanli-Okul\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

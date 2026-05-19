@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("nesneTabanli-Okul")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8488147d63cac419484008132afcdebd160989ec")]
 [assembly: System.Reflection.AssemblyProductAttribute("nesneTabanli-Okul")]
 [assembly: System.Reflection.AssemblyTitleAttribute("nesneTabanli-Okul")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
