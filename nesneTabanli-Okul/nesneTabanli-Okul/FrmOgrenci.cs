@@ -35,7 +35,7 @@ namespace nesneTabanli_Okul
         {
             if (radioButton1.Checked)
             {
-                cins = "Kadın";
+                cins = "Kız";
             }
             if (radioButton2.Checked)
             {
@@ -52,7 +52,7 @@ namespace nesneTabanli_Okul
 
         private void btnGuncelle_Click(object sender, EventArgs e)
         {
-            ds.OgrenciGuncelle(txtAd.Text, txtSoyad.Text, byte.Parse(cbKulüp.SelectedValue.ToString()), cins, int.Parse(txtID.Text);
+            ds.OgrenciGuncelle(txtAd.Text, txtSoyad.Text, byte.Parse(cbKulüp.SelectedValue.ToString()), cins, int.Parse(txtID.Text));
         }
 
         private void radioButton1_CheckedChanged(object sender, EventArgs e)

@@ -1,38 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\orcun\\source\\repos\\nesneTabanli-Okul\\",
+  "WorkspaceRootPath": "C:\\Users\\orcun\\OneDrive\\Documents\\GitHub\\nesnetabanli2-okul\\nesneTabanli-Okul\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{06D63FA5-05FE-D10E-4A1B-C1235A9D2C70}|nesneTabanli-Okul\\nesneTabanli-Okul.csproj|c:\\users\\orcun\\source\\repos\\nesnetabanli-okul\\nesnetabanli-okul\\frmsinavnotlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{06D63FA5-05FE-D10E-4A1B-C1235A9D2C70}|nesneTabanli-Okul\\nesneTabanli-Okul.csproj|c:\\users\\orcun\\onedrive\\documents\\github\\nesnetabanli2-okul\\nesnetabanli-okul\\nesnetabanli-okul\\frmsinavnotlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{06D63FA5-05FE-D10E-4A1B-C1235A9D2C70}|nesneTabanli-Okul\\nesneTabanli-Okul.csproj|solutionrelative:nesnetabanli-okul\\frmsinavnotlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06D63FA5-05FE-D10E-4A1B-C1235A9D2C70}|nesneTabanli-Okul\\nesneTabanli-Okul.csproj|c:\\users\\orcun\\source\\repos\\nesnetabanli-okul\\nesnetabanli-okul\\frmogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06D63FA5-05FE-D10E-4A1B-C1235A9D2C70}|nesneTabanli-Okul\\nesneTabanli-Okul.csproj|solutionrelative:nesnetabanli-okul\\frmogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06D63FA5-05FE-D10E-4A1B-C1235A9D2C70}|nesneTabanli-Okul\\nesneTabanli-Okul.csproj|C:\\Users\\orcun\\source\\repos\\nesneTabanli-Okul\\nesnetabanli-okul\\frmogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{06D63FA5-05FE-D10E-4A1B-C1235A9D2C70}|nesneTabanli-Okul\\nesneTabanli-Okul.csproj|solutionrelative:nesnetabanli-okul\\frmogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06D63FA5-05FE-D10E-4A1B-C1235A9D2C70}|nesneTabanli-Okul\\nesneTabanli-Okul.csproj|C:\\Users\\orcun\\source\\repos\\nesneTabanli-Okul\\nesnetabanli-okul\\frmogrencinotlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{06D63FA5-05FE-D10E-4A1B-C1235A9D2C70}|nesneTabanli-Okul\\nesneTabanli-Okul.csproj|solutionrelative:nesnetabanli-okul\\frmogrencinotlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06D63FA5-05FE-D10E-4A1B-C1235A9D2C70}|nesneTabanli-Okul\\nesneTabanli-Okul.csproj|C:\\Users\\orcun\\source\\repos\\nesneTabanli-Okul\\nesnetabanli-okul\\frmogretmen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{06D63FA5-05FE-D10E-4A1B-C1235A9D2C70}|nesneTabanli-Okul\\nesneTabanli-Okul.csproj|solutionrelative:nesnetabanli-okul\\frmogretmen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06D63FA5-05FE-D10E-4A1B-C1235A9D2C70}|nesneTabanli-Okul\\nesneTabanli-Okul.csproj|C:\\Users\\orcun\\source\\repos\\nesneTabanli-Okul\\nesnetabanli-okul\\frmsinavnotlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{06D63FA5-05FE-D10E-4A1B-C1235A9D2C70}|nesneTabanli-Okul\\nesneTabanli-Okul.csproj|c:\\users\\orcun\\onedrive\\documents\\github\\nesnetabanli2-okul\\nesnetabanli-okul\\nesnetabanli-okul\\frmsinavnotlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{06D63FA5-05FE-D10E-4A1B-C1235A9D2C70}|nesneTabanli-Okul\\nesneTabanli-Okul.csproj|solutionrelative:nesnetabanli-okul\\frmsinavnotlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06D63FA5-05FE-D10E-4A1B-C1235A9D2C70}|nesneTabanli-Okul\\nesneTabanli-Okul.csproj|c:\\users\\orcun\\source\\repos\\nesnetabanli-okul\\nesnetabanli-okul\\frmogretmen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06D63FA5-05FE-D10E-4A1B-C1235A9D2C70}|nesneTabanli-Okul\\nesneTabanli-Okul.csproj|solutionrelative:nesnetabanli-okul\\frmogretmen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06D63FA5-05FE-D10E-4A1B-C1235A9D2C70}|nesneTabanli-Okul\\nesneTabanli-Okul.csproj|c:\\users\\orcun\\source\\repos\\nesnetabanli-okul\\nesnetabanli-okul\\dataset2.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
-      "RelativeMoniker": "D:0:0:{06D63FA5-05FE-D10E-4A1B-C1235A9D2C70}|nesneTabanli-Okul\\nesneTabanli-Okul.csproj|solutionrelative:nesnetabanli-okul\\dataset2.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,97 +34,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FrmOgrenci.cs",
-              "DocumentMoniker": "C:\\Users\\orcun\\source\\repos\\nesneTabanli-Okul\\nesneTabanli-Okul\\FrmOgrenci.cs",
-              "RelativeDocumentMoniker": "nesneTabanli-Okul\\FrmOgrenci.cs",
-              "ToolTip": "C:\\Users\\orcun\\source\\repos\\nesneTabanli-Okul\\nesneTabanli-Okul\\FrmOgrenci.cs",
-              "RelativeToolTip": "nesneTabanli-Okul\\FrmOgrenci.cs",
-              "ViewState": "AgIAAE4AAAAAAAAAAAAlwGMAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T11:23:06.233Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FrmOgrenci.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\orcun\\source\\repos\\nesneTabanli-Okul\\nesneTabanli-Okul\\FrmOgrenci.cs",
-              "RelativeDocumentMoniker": "nesneTabanli-Okul\\FrmOgrenci.cs",
-              "ToolTip": "C:\\Users\\orcun\\source\\repos\\nesneTabanli-Okul\\nesneTabanli-Okul\\FrmOgrenci.cs [Design]",
-              "RelativeToolTip": "nesneTabanli-Okul\\FrmOgrenci.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T11:23:02.771Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FrmOgrenciNotlar.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\orcun\\source\\repos\\nesneTabanli-Okul\\nesneTabanli-Okul\\FrmOgrenciNotlar.cs",
-              "RelativeDocumentMoniker": "nesneTabanli-Okul\\FrmOgrenciNotlar.cs",
-              "ToolTip": "C:\\Users\\orcun\\source\\repos\\nesneTabanli-Okul\\nesneTabanli-Okul\\FrmOgrenciNotlar.cs [Design]",
-              "RelativeToolTip": "nesneTabanli-Okul\\FrmOgrenciNotlar.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T11:23:00.834Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "FrmSinavNotlar.cs",
-              "DocumentMoniker": "C:\\Users\\orcun\\source\\repos\\nesneTabanli-Okul\\nesneTabanli-Okul\\FrmSinavNotlar.cs",
+              "DocumentMoniker": "C:\\Users\\orcun\\OneDrive\\Documents\\GitHub\\nesnetabanli2-okul\\nesneTabanli-Okul\\nesneTabanli-Okul\\FrmSinavNotlar.cs",
               "RelativeDocumentMoniker": "nesneTabanli-Okul\\FrmSinavNotlar.cs",
-              "ToolTip": "C:\\Users\\orcun\\source\\repos\\nesneTabanli-Okul\\nesneTabanli-Okul\\FrmSinavNotlar.cs",
+              "ToolTip": "C:\\Users\\orcun\\OneDrive\\Documents\\GitHub\\nesnetabanli2-okul\\nesneTabanli-Okul\\nesneTabanli-Okul\\FrmSinavNotlar.cs",
               "RelativeToolTip": "nesneTabanli-Okul\\FrmSinavNotlar.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABCAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T11:21:34.547Z",
+              "WhenOpened": "2026-05-29T14:52:07.99Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "FrmOgretmen.cs",
-              "DocumentMoniker": "C:\\Users\\orcun\\source\\repos\\nesneTabanli-Okul\\nesneTabanli-Okul\\FrmOgretmen.cs",
-              "RelativeDocumentMoniker": "nesneTabanli-Okul\\FrmOgretmen.cs",
-              "ToolTip": "C:\\Users\\orcun\\source\\repos\\nesneTabanli-Okul\\nesneTabanli-Okul\\FrmOgretmen.cs",
-              "RelativeToolTip": "nesneTabanli-Okul\\FrmOgretmen.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAlwCYAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T11:17:31.403Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FrmOgretmen.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\orcun\\source\\repos\\nesneTabanli-Okul\\nesneTabanli-Okul\\FrmOgretmen.cs",
-              "RelativeDocumentMoniker": "nesneTabanli-Okul\\FrmOgretmen.cs",
-              "ToolTip": "C:\\Users\\orcun\\source\\repos\\nesneTabanli-Okul\\nesneTabanli-Okul\\FrmOgretmen.cs [Design]",
-              "RelativeToolTip": "nesneTabanli-Okul\\FrmOgretmen.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T11:17:23.648Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "FrmSinavNotlar.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\orcun\\source\\repos\\nesneTabanli-Okul\\nesneTabanli-Okul\\FrmSinavNotlar.cs",
+              "DocumentMoniker": "C:\\Users\\orcun\\OneDrive\\Documents\\GitHub\\nesnetabanli2-okul\\nesneTabanli-Okul\\nesneTabanli-Okul\\FrmSinavNotlar.cs",
               "RelativeDocumentMoniker": "nesneTabanli-Okul\\FrmSinavNotlar.cs",
-              "ToolTip": "C:\\Users\\orcun\\source\\repos\\nesneTabanli-Okul\\nesneTabanli-Okul\\FrmSinavNotlar.cs [Design]",
+              "ToolTip": "C:\\Users\\orcun\\OneDrive\\Documents\\GitHub\\nesnetabanli2-okul\\nesneTabanli-Okul\\nesneTabanli-Okul\\FrmSinavNotlar.cs [Design]",
               "RelativeToolTip": "nesneTabanli-Okul\\FrmSinavNotlar.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T11:06:56.821Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "DataSet2.xsd",
-              "DocumentMoniker": "C:\\Users\\orcun\\source\\repos\\nesneTabanli-Okul\\nesneTabanli-Okul\\DataSet2.xsd",
-              "RelativeDocumentMoniker": "nesneTabanli-Okul\\DataSet2.xsd",
-              "ToolTip": "C:\\Users\\orcun\\source\\repos\\nesneTabanli-Okul\\nesneTabanli-Okul\\DataSet2.xsd",
-              "RelativeToolTip": "nesneTabanli-Okul\\DataSet2.xsd",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
-              "WhenOpened": "2026-05-12T08:05:47.091Z"
+              "WhenOpened": "2026-05-29T14:52:07.37Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

@@ -89,7 +89,7 @@ namespace nesneTabanli_Okul
         private void btnGuncelle_Click(object sender, EventArgs e)
         {
             baglanti.Open();
-            SqlCommand komut = new SqlCommand("update kulupler set kulup_ad = @p1 kulup_id = @p2", baglanti);
+            SqlCommand komut = new SqlCommand("update kulupler set kulup_ad = @p1 where kulup_id = @p2", baglanti);
             komut.Parameters.AddWithValue("@p1", txtKulupAd.Text);
             komut.Parameters.AddWithValue("@p2", txtKulupID.Text);
             komut.ExecuteNonQuery();
